@@ -3,7 +3,6 @@
 <h3 align="center">Machine learning enthusiast and MERN stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://j.gifs.com/YE6OJA.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh-pachauri" alt="ansh-pachauri" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@anshpachau66447" target="blank"><img src="https://img.shields.io/twitter/follow/@anshpachau66447?logo=twitter&style=for-the-badge" alt="@anshpachau66447" /></a> </p>
 
