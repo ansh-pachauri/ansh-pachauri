@@ -1,5 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://anurag5080.io)
 <h1 align="center">Hi 🙋‍♂, I'm Ansh Pachauri</h1>
 <h3 align="center">Machine learning enthusiast and MERN stack developer.</h3>
+<img align="right" alt="Coding" width="400" src="https://j.gifs.com/YE6OJA.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh-pachauri" alt="ansh-pachauri" /></a> </p>
 
