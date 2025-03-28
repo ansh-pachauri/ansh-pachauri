@@ -1,14 +1,14 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://anurag5080.io)
 <h1 align="center">Hi 🙋‍♂, I'm Ansh Pachauri</h1>
-<h3 align="center">Machine learning enthusiast and MERN stack developer.</h3>
+<h3 align="center">FullStack Web Developer .</h3>
 <img align="right" alt="Coding" width="400" src="https://j.gifs.com/YE6OJA.gif">
 
 
 <p align="left"> <a href="https://twitter.com/@anshpachau66447" target="blank"><img src="https://img.shields.io/twitter/follow/@anshpachau66447?logo=twitter&style=for-the-badge" alt="@anshpachau66447" /></a> </p>
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning *Web 3*
 
-- 💬 Ask me about *Express, Mongoes , startups.*
+- 💬 Ask me about *Tech, startups, Web 3 etc.*
 
 - 📫 How to reach me *yepitsansh2@gmail.com*
 
@@ -24,4 +24,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansh-pachauri&show_icons=true&locale=en&layout=compact" alt="ansh-pachauri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-pachauri&" alt="ansh-pachauri" /></p>
